@@ -1,4 +1,4 @@
-# Todo React Native
+# Todo React Native with Redux
 
 ###Getting Started###
 
